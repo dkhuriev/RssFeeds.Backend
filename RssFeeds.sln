@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssFeeds.Web", "RssFeeds.Web\RssFeeds.Web.csproj", "{04FF3F43-6582-4978-B977-8A36A7976A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssFeeds.Model", "RssFeeds.Model\RssFeeds.Model.csproj", "{F8D8C3BE-B7ED-4BA7-90E8-2EB4E2A55E97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssFeeds.Model", "RssFeeds.Model\RssFeeds.Model.csproj", "{005DF03A-43E3-4DE4-AEB3-ADA4F1CE63CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{04FF3F43-6582-4978-B977-8A36A7976A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04FF3F43-6582-4978-B977-8A36A7976A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04FF3F43-6582-4978-B977-8A36A7976A69}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8D8C3BE-B7ED-4BA7-90E8-2EB4E2A55E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8D8C3BE-B7ED-4BA7-90E8-2EB4E2A55E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8D8C3BE-B7ED-4BA7-90E8-2EB4E2A55E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8D8C3BE-B7ED-4BA7-90E8-2EB4E2A55E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005DF03A-43E3-4DE4-AEB3-ADA4F1CE63CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005DF03A-43E3-4DE4-AEB3-ADA4F1CE63CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005DF03A-43E3-4DE4-AEB3-ADA4F1CE63CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005DF03A-43E3-4DE4-AEB3-ADA4F1CE63CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
